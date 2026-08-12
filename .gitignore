@@ -1,0 +1,19 @@
+# Local tooling
+.tools/
+
+# Go
+backend/coverage
+backend/coverage.out
+backend/calculator
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/coverage/
+frontend/*.tsbuildinfo
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
